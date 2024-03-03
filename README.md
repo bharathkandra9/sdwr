@@ -100,7 +100,7 @@ print('Test accuracy:', accuracy)
 ```
 ## Result Analysis:
 We present the results of our experiments, comparing the performance of the sentiment analysis model with and without structural damping techniques. Through detailed analysis, we highlight the improvements in model stability and accuracy achieved by incorporating structural damping.
-
+![result](sdwr.png)
 ## Business Implication:
 The successful integration of structural damping techniques within RNNs for sentiment analysis has significant implications for businesses:
 
